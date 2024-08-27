@@ -12,9 +12,9 @@ title                    : "Guangcai Qian's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Guangcai Qian"
 description              : &description "personal description"
-url                      : https://v1ncentccc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://GuangcaiQian.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "v1ncentccc/v1ncentccc.github.io/"
+repository               : "GuangcaiQian/GuangcaiQian.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
