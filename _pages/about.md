@@ -23,4 +23,4 @@ Consistent seismic event detection using multi-input end-to-end neural networks 
 Seismic Event Detection using Bridge Monitoring Data Based on Multi-input Deep Neural Networks.(Accepted)
 
 
-[Wechat]("wechat.png")/[QQ]("qq.png")
+[Wechat](https://sm.ms/image/cm1fGYDC29JXMey)/[QQ](https://sm.ms/image/cm1fGYDC29JXMey)
