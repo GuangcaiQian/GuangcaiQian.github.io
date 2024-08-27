@@ -19,4 +19,5 @@ I graduated from KUST and studied under Prof. [Wei Xu](https://orcid.org/0009-00
 Paper
 ======
 Consistent seismic event detection using multi-input end-to-end neural networks for structural health monitoring.(Underreview)
+
 Seismic Event Detection using Bridge Monitoring Data Based on Multi-input Deep Neural Networks.(Accepted)
