@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Guangcai Qian's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Guangcai Qian"
+name                     : &name "Guangcai Qian 钱广才"
 description              : &description "personal description"
 url                      : "https://GuangcaiQian.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
