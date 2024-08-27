@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Guangcai Qian's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Guangcai Qian/ 钱广才"
+name                     : &name "Guangcai Qian"
 description              : &description "personal description"
 url                      : "https://GuangcaiQian.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "GuangcaiQian/GuangcaiQian.github.io/"
 author:
   # Biographic information
   avatar           : "白底证件照.png"
-  name             : "Guangcai Qian"
+  name             : "Guangcai Qian 钱广才"
   pronouns         : # example: "she/her"  
   bio              : "SHM"
   location         : "Kunming China"
