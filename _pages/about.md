@@ -12,4 +12,11 @@ I am a third-year master's student specializing in Structural Health Monitoring 
 My research contributes to the field of civil engineering by addressing key challenges in the real-time assessment and maintenance of structural integrity, ensuring the continued reliability of essential transportation networks.
 
 
-I graduated from KUST and studied under Prof. Wei Xu[xuwei](https://orcid.org/0009-0006-5958-9288). I completed my studies under the guidance of Lecturer Zhiyi Tang[zhiyitang](https://scholar.google.com/citations?user=cgAplYkAAAAJ&hl=zh-CN&oi=sra)
+I graduated from KUST and studied under Prof. [Wei Xu](https://orcid.org/0009-0006-5958-9288). I completed my studies under the guidance of Lecturer [Zhiyi Tang](https://scholar.google.com/citations?user=cgAplYkAAAAJ&hl=zh-CN&oi=sra)
+
+
+
+Paper
+======
+Consistent seismic event detection using multi-input end-to-end neural networks for structural health monitoring.(Underreview)
+Seismic Event Detection using Bridge Monitoring Data Based on Multi-input Deep Neural Networks.(Accepted)
