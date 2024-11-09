@@ -20,6 +20,8 @@ Paper
 ======
 Consistent seismic event detection using multi-input end-to-end neural networks for structural health monitoring.(Underreview)
 
+A Deep learning-based Adaptive Fusion Method for in-situ Seismic Event Detection.(Accepted)
+
 Seismic Event Detection using Bridge Monitoring Data Based on Multi-input Deep Neural Networks.(Accepted)
 
 
