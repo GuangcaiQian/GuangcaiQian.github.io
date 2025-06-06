@@ -22,7 +22,6 @@ Consistent seismic event detection using multi-input end-to-end neural networks 
 
 A Deep learning-based Adaptive Fusion Method for in-situ Seismic Event Detection.[Link](https://ieeexplore.ieee.org/document/10899297)
 
-Seismic Event Detection using Bridge Monitoring Data Based on Multi-input Deep Neural Networks.(Accepted)
 
 
 [Wechat](https://s2.loli.net/2024/08/27/ium6tMHYjZJWqVn.jpg) /[QQ](https://s2.loli.net/2024/08/27/dL4gkDq72JsuUbK.png)
