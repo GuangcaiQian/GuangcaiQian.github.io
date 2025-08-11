@@ -6,10 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year master's student specializing in Structural Health Monitoring (SHM) with a focus on large-scale bridge infrastructure. My research centers on the development of advanced techniques for the identification and classification of special events and anomalies within bridge monitoring data. By leveraging cutting-edge methodologies, my work aims to improve the safety and longevity of critical infrastructure. 
+I am currently a Technical Engineer at Sinopec Petroleum Engineering & Construction Company, engaged in the design, construction, and technical support of petroleum and petrochemical surface engineering projects.
+
+I hold a Master’s degree in Civil Engineering from Kunming University of Science and Technology (KUST), specializing in Structural Health Monitoring (SHM) for large-scale bridge infrastructure. My research developed advanced deep learning and machine learning methods for detecting and classifying extreme events and anomalies in SHM data, aiming to enhance the safety, resilience, and service life of critical infrastructure.
 
 
-My research contributes to the field of civil engineering by addressing key challenges in the real-time assessment and maintenance of structural integrity, ensuring the continued reliability of essential transportation networks.
+I proposed a multi-channel information fusion framework combining time-domain, frequency-domain, and probability density representations, converting multi-sensor time-series data into images for classification. This work integrated feature fusion and decision fusion strategies to improve seismic event detection accuracy, validated using real-world monitoring data from a long-span cable-stayed bridge.
 
 
 I graduated from KUST and studied under Prof. [Wei Xu](https://orcid.org/0009-0006-5958-9288). I completed my studies under the guidance of Lecturer [Zhiyi Tang](https://scholar.google.com/citations?user=cgAplYkAAAAJ&hl=zh-CN&oi=sra)
