@@ -24,6 +24,9 @@ Consistent seismic event detection using multi-input end-to-end neural networks 
 
 A Deep learning-based Adaptive Fusion Method for in-situ Seismic Event Detection.[Link](https://ieeexplore.ieee.org/document/10899297)
 
+Three-Dimensional Nonlinear GZZ Strength Criterion of Sandy Dolomite: Verification by True Triaxis Test and Analysis of Intermediate Principal Stress Effect.[Link](https://link.springer.com/article/10.1007/s00603-025-05090-7)
+
+A Prototype of a Lightweight Structural Health Monitoring System Based on Edge Computing.[Link](https://www.mdpi.com/1424-8220/25/18/5612)
 
 
 [Wechat](https://s2.loli.net/2024/08/27/ium6tMHYjZJWqVn.jpg) /[QQ](https://s2.loli.net/2024/08/27/dL4gkDq72JsuUbK.png)
