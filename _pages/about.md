@@ -48,15 +48,8 @@ Before starting my Ph.D., I worked as a Technical Engineer at [Sinopec](https://
    *Sensors*, 2025.  
    [Publisher](https://www.mdpi.com/1424-8220/25/18/5612) · [DOI](https://doi.org/10.3390/s25185612)
 
-## Academic Profiles
-
-- [Google Scholar](https://scholar.google.com/citations?user=Rr5j-X0AAAAJ&hl=zh-CN)
-- [ORCID](https://orcid.org/0009-0008-4869-8432)
-- [GitHub](https://github.com/GuangcaiQian)
 
 ## Contact
 
-- [Email](mailto:qianguangcai@xauat.edu.cn)
 - [WeChat](/images/wechat.png)
 - [QQ](/images/qq.png)
-- [Zhihu](https://www.zhihu.com/people/wen-sen-te-zhu-56)
