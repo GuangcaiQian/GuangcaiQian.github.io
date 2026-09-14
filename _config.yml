@@ -46,7 +46,7 @@ author:
 
   # Social media
   bluesky          :
-  facebook         : "profile.php?id=100036247702968"
+  facebook         : 
   flickr           :
   foursquare       :
   goodreads        :
@@ -64,11 +64,11 @@ author:
   tumblr           :
   twitter          : "qianguang3"
   vine             :
-  weibo            : "u/5897655727"
+  weibo            :
   wikipedia        :
   xing             :
   youtube          :
-  zhihu            : "https://www.zhihu.com/people/wen-sen-te-zhu-56"
+  zhihu            : 
 
 # Publication Category
 publication_category:
