@@ -7,15 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I am a Ph.D. student in Structural Engineering at the [School of Civil Engineering](https://civil.xauat.edu.cn/), [Xi'an University of Architecture and Technology](https://www.xauat.edu.cn/). I began my doctoral studies in September 2026 under the supervision of Prof. [Daming Luo](https://faculty.xauat.edu.cn/luodaming/zh_CN/tzysd/95211/list/index.htm). My research focuses on intelligent diagnosis of concrete durability and structural health monitoring.
 
 From 2022 to 2025, I completed a master's program in Civil and Hydraulic Engineering, majoring in Civil Engineering, at [Kunming University of Science and Technology](https://www.kmust.edu.cn/). Under the supervision of Prof. [Wei Xu](https://orcid.org/0009-0006-5958-9288) and [Zhiyi Tang](https://scholar.google.com/citations?user=cgAplYkAAAAJ&hl=zh-CN&oi=sra), I studied deep learning-based identification of seismic events and sensor anomalies using multi-channel structural health monitoring data.
 
 Before starting my Ph.D., I worked as a Technical Engineer at [Sinopec](https://www.sinopecgroup.com/) from August 2025 to June 2026.
 
-## 中文简介
 
 我现为[西安建筑科技大学](https://www.xauat.edu.cn/)[土木工程学院](https://civil.xauat.edu.cn/)结构工程专业博士研究生，2026年9月入学，师从[罗大明教授](https://faculty.xauat.edu.cn/luodaming/zh_CN/tzysd/95211/list/index.htm)，主要研究混凝土耐久性智能诊断与结构健康监测。
 
